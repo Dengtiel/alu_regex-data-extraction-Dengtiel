@@ -15,8 +15,8 @@ This is a Flask application that extracts various types of data (emails, URLs, p
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/flask-regex-data-extractor.git
-cd flask-regex-data-extractor
+git clone https://github.com/Dengtiel/alu_regex-data-extraction-Dengtiel.git
+cd alu_regex-data-extraction-Dengtiel
 ```
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
@@ -24,14 +24,14 @@ cd flask-regex-data-extractor
 To avoid conflicts with global Python packages, it’s best to set up a virtual environment:
 
 ```bash
-python -m venv venv
+python -m venv .venv
 ```
 
 Activate the virtual environment:
 
 - On **Windows**:
   ```bash
-  venv\Scripts\activate
+  source .venv/Scripts/activate
   ```
 
 - On **macOS/Linux**:
