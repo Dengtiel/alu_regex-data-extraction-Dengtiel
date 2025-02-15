@@ -112,7 +112,7 @@ Here is a sample of complex data for testing: My email is example@example.com an
 - **URLs**: `https://www.example.com`
 - **Phone Numbers**: `(123) 456-7890`
 - **Credit Cards**: `1234-5678-9876-5432`
--**Date**: 2025-02-15 | **Time in 12-hour format**: 07-45-30-PM or **Time in 24-hour format**: 19-45-30
+- **Date**: `2025-02-15` | **Time in 12-hour format**: `07-45-30-PM or **Time in 24-hour format**: 19-45-30`
 - **Hashtags**: `#Testing`, `#complex_data`
 - **HTML Tags**: `<div>`, `<span>`, etc.
 - **Currency**: `$1,000.99`
